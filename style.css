@@ -10,3 +10,12 @@ padding:20px;
 font-size:32px;
 color: rgb(182, 252, 217);
 }
+
+section {
+background: rgb(184, 156, 213);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+
+
+}
