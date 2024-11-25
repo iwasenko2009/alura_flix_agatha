@@ -1,4 +1,9 @@
 body {
-color:rgb(0, 0, 0);
-background:rgba(0, 255, 170, 0.699);
+color:rgb(135, 226, 253);
+background:rgba(0, 0, 0, 0.973);
+}
+
+header{
+border-bottom: solid 2px rgb(182, 252, 217);
+
 }
